@@ -26,3 +26,4 @@ range = numbers[4] - numbers[0]
 print('Range: {}'.format(range))
 
 #Mode
+#Still working on mode :/
